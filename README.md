@@ -13,9 +13,9 @@ Locate and Install Software
 -	Open the sub-folder labeled: ‘pre-req_SW’
 -	The software packages in this folder should consist of:
 ..*Apache-maven-3.2.1-bin.zip
---*Apache-tomcat-7.0.52-windows-x64.zip
---*Jdk-7u60-x64.exe
---*Git-1.9.4-preview20140611
+..*Apache-tomcat-7.0.52-windows-x64.zip
+..*Jdk-7u60-x64.exe
+..*Git-1.9.4-preview20140611
 
 Install the software in the following order:
 --------------
