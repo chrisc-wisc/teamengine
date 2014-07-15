@@ -19,7 +19,8 @@ Locate and Install Software
 
 Install the software in the following order:
 --------------
--	Jdk-7u60-windows-x64.exe (3.1) *if presented with Windows Smart Screen error, click on ‘Run Anyway’*
+-	Jdk-7u60-windows-x64.exe (3.1)
+*if presented with Windows Smart Screen error, click on ‘Run Anyway’*
 -	Apache-maven-3.2.1-bin.zip (3.2)
 -	Git-1.9.4-preview20140611 (3.3)
 -	Apache-tomcat.7.0.52-windows-x64.zip (3.5)
