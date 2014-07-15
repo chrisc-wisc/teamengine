@@ -4,7 +4,7 @@ Ensure network adapters are disabled on the workstation
 --------------
 
 -	Verify using the command prompt by typing this command:
-``` C:\> Ipconfig – the IP listed should be an internally used one, and the IP address range should be 10.0.0.0 – 10.255.255.255, 172.16.0.0 – 172.31.255.255, or 192.168.0.0 – 192.168.255.255 ```
+``` C:\> Ipconfig``` – the IP listed should be an internally used one, and the IP address range should be ```10.0.0.0 – 10.255.255.255, 172.16.0.0 – 172.31.255.255, or 192.168.0.0 – 192.168.255.255```
 
 Locate and Install Software
 --------------
